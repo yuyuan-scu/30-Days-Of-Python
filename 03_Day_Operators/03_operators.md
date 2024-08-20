@@ -177,6 +177,8 @@ density = mass / volume # 1000 Kg/m^3
 
 ```
 
+
+
 ### Comparison Operators
 
 In programming we compare values, we use comparison operators to compare two values. We check if a value is greater or less or equal to other value. The following table shows Python comparison operators which was taken from [w3shool](https://www.w3schools.com/python/python_operators.asp).
